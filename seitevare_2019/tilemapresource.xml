@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
     <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
-      <Title>Seitevare2019_99TM_NoComp_400mm_sArea.tif</Title>
+      <Title>Seitevare_Ortho_99TM_20mm_2019_.tif</Title>
       <Abstract></Abstract>
       <SRS>EPSG:3857</SRS>
-      <BoundingBox minx="18.55334472995555" miny="66.97298242465384" maxx="18.58345033211288" maxy="66.97951316212372"/>
-      <Origin x="18.55334472995555" y="66.97298242465384"/>
+      <BoundingBox minx="18.55334433792655" miny="66.97298009423010" maxx="18.58345452358936" maxy="66.97951316212372"/>
+      <Origin x="18.55334433792655" y="66.97298009423010"/>
       <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
       <TileSets profile="mercator">
         <TileSet href="16" units-per-pixel="2.38865713348389" order="16"/>
